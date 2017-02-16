@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 2.8)
 include(${CMAKE_TOOLCHAIN_FILE})
 
 project(frc-cpp-project-skeleton)
-set(TEAM_NUMBER 5499)
+set(TEAM_NUMBER 4698
 
 # Robot target
 # For quick list run
